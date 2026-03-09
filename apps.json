@@ -1,0 +1,31 @@
+{
+  "name": "Arasaka1 Apps",
+  "identifier": "com.arasaka1.source",
+  "sourceURL": "https://arasaka1.github.io/CalorieSource/apps.json",
+  "apps": [
+    {
+      "name": "Calorie",
+      "bundleIdentifier": "com.arasaka1.calorie",
+      "developerName": "Arasaka1",
+      "subtitle": "AI-powered calorie tracking",
+      "localizedDescription": "A minimalist iOS 26 calorie tracker powered by AI. Features Apple Liquid Glass UI, LLM integrations (Gemini, Cerebras, Apple Foundation Models), activity rings, weekly progress tracking, and on-device backup.",
+      "iconURL": "https://raw.githubusercontent.com/Arasaka1/CalorieSource/main/icon.png",
+      "tintColor": "FF9500",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-03-10T00:00:00-00:00",
+          "localizedDescription": "Initial release of Calorie Tracker",
+          "downloadURL": "https://github.com/Arasaka1/Calorie/releases/download/v1.0.0/Calorie.ipa",
+          "size": 5000000
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
