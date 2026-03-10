@@ -14,11 +14,11 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.0.1",
-          "date": "2026-03-10T00:27:07-00:00",
-          "localizedDescription": "Calorie v0.0.1",
-          "downloadURL": "https://github.com/Arasaka1/CalorieSource/releases/download/v0.0.1/Calorie.ipa",
-          "size": 273923
+          "version": "0.0.2",
+          "date": "2026-03-10T00:34:21-00:00",
+          "localizedDescription": "Calorie v0.0.2",
+          "downloadURL": "https://github.com/Arasaka1/CalorieSource/releases/download/v0.0.2/Calorie.ipa",
+          "size": 278778
         }
       ],
       "appPermissions": {
