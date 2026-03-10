@@ -14,11 +14,11 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.0.0",
-          "date": "2026-03-10T00:00:00-00:00",
-          "localizedDescription": "Initial release of Calorie Tracker",
-          "downloadURL": "https://github.com/Arasaka1/Calorie/releases/download/v1.0.0/Calorie.ipa",
-          "size": 5000000
+          "version": "0.0.1",
+          "date": "2026-03-10T00:02:58-00:00",
+          "localizedDescription": "Calorie v0.0.1",
+          "downloadURL": "https://github.com/Arasaka1/Calorie/releases/download/v0.0.1/Calorie.ipa",
+          "size": 273938
         }
       ],
       "appPermissions": {
